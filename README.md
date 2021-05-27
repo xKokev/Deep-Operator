@@ -12,7 +12,7 @@
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 2. Search for and choose `Deep Operator xk Theme` by Chad Danna
 3. Click **Install** to install it
-4. Click **Reload** to reload your editor
+4. Click **Reload** to reload your editor.
 5. Navigate to File > Preferences > Color Theme > **Deep Operator xk Theme** or any of the variants listed
 6. Yay! You're all set .
 
