@@ -1,0 +1,31 @@
+{
+  "name": "deep-operator-xk-theme",
+  "displayName": "Deep Operator xk Theme",
+  "description": "A customized Deep theme with Operator Mono support for Visual Studio Code.",
+  "version": "1.0",
+  "publisher": "xKokev",
+  "engines": {
+    "vscode": "^1.56.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xKokev"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Operator xk Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepOperator.json"
+      },
+      {
+        "label": "Deep Operator xk Theme 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DeepOperator2.json"
+      }
+    ]
+  }
+}
