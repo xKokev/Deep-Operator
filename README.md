@@ -17,6 +17,9 @@
 6. Yay! You're all set .
 
 Designed with ❤️ by **[Kevin Correa](https://github.com/xKokev)** in **Caracas, 🇻🇪**.
+<br>
 You can contact me **[Linkedin] (https://www.linkedin.com/in/kevincorreasuarez/)**
+<br>
 Follow me on **[Twitter](https://twitter.com/xkokev)**
+<br>
 Follow me on **[Instagram](https://www.instagram.com/xkokev/)**
